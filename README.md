@@ -4,11 +4,11 @@
 
 ### 가상환경 진입
 
-python -m venv selenium
+python -m venv Python-selenium
 
 ### 가상환경 실행
 
-cd selenium\Scripts 진입후
+cd Python-selenium\Scripts 진입후
 activate
 
 ### 셀레니움 다운로드 및 설치
